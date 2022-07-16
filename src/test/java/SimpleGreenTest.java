@@ -7,4 +7,12 @@ public class SimpleGreenTest {
     public void shouldAssertTrue(){
         Assert.assertTrue( true);
     }
+    @Test
+    public void shouldAssertTrue2(){
+        Assert.assertTrue( true);
+    }
+    @Test
+    public void shouldAssertTrue3(){
+        Assert.assertTrue( true);
+    }
 }
